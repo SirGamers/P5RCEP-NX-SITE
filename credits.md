@@ -34,8 +34,12 @@
 
 ### [Century\_](https://gamebanana.com/members/1764202)
 
-[Epic Partypanel in Color](./)
+[Epic Partypanel in Color](broken-reference)
 
 ### [Zerron21](https://gamebanana.com/members/1748310)
 
 [No Game Over Spoliers](https://gamebanana.com/mods/408650)
+
+### DeathChaos
+
+[60FPS Patch](https://drive.google.com/file/d/1mpuXmib4aNy3gCJY3qeArFRROFmG-5J3/view?usp=sharing)
