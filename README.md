@@ -1,4 +1,4 @@
-# Introduction
+# P5RCEP NX
 
 ### P5R Community Enhancement Pack for Switch (P5RCEP NX) is an all-in-one collection of tools and mods for the 2022 Switch release of Persona 5 Royal.
 
